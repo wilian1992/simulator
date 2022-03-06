@@ -1,5 +1,5 @@
 {
-  "name": "css-simulator",
+  "name": "simulator",
   "version": "1.0.0",
   "description": "Estrutura básica de projetos front-end para estudos de HTML, JS, CSS / SASS.",
   "main": "webpack.config.js",

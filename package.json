@@ -36,13 +36,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wilian1992/Css-simulator.git"
+    "url": "git+https://github.com/wilian1992/simulator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wilian1992/Css-simulator/issues"
+    "url": "https://github.com/wilian1992/simulator/issues"
   },
-  "homepage": "https://github.com/wilian1992/Css-simulator#readme"
+  "homepage": "https://github.com/wilian1992/simulator#readme"
 }
